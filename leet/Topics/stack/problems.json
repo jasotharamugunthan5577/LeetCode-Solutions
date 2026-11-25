@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "stack",
+    "name": "Stack",
+    "tagId": "15"
+  },
+  "updatedAt": "2026-11-25T12:23:21.301Z",
+  "problems": [
+    {
+      "frontendId": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "problemName": "0678-valid-parenthesis-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "folderPath": "leet/0678-valid-parenthesis-string/",
+      "readmePath": "leet/0678-valid-parenthesis-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0678-valid-parenthesis-string.cpp",
+          "path": "leet/0678-valid-parenthesis-string/0678-valid-parenthesis-string.cpp",
+          "sha": "78bcb8a3bd944e8b5210f48cee074f5157d2831b",
+          "lastSyncedAt": "2026-11-25T12:23:21.301Z"
+        }
+      ]
+    }
+  ]
+}
