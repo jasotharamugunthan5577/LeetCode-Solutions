@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math",
+    "tagId": "8"
+  },
+  "updatedAt": "2026-11-25T12:23:58.370Z",
+  "problems": [
+    {
+      "frontendId": "29",
+      "title": "Divide Two Integers",
+      "slug": "divide-two-integers",
+      "problemName": "0029-divide-two-integers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-two-integers/",
+      "folderPath": "leet/0029-divide-two-integers/",
+      "readmePath": "leet/0029-divide-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0029-divide-two-integers.c",
+          "path": "leet/0029-divide-two-integers/0029-divide-two-integers.c",
+          "sha": "6e819d6934b15ba2a68f3f1beb378580181c883c",
+          "lastSyncedAt": "2026-11-25T12:23:58.370Z"
+        }
+      ]
+    }
+  ]
+}
