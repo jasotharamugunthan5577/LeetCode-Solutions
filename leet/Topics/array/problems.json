@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-25T12:24:08.767Z",
+  "updatedAt": "2026-11-25T12:24:45.423Z",
   "problems": [
     {
       "frontendId": "88",
@@ -44,6 +44,26 @@
           "path": "leet/0136-single-number/0136-single-number.c",
           "sha": "39f323f9831c426bbb3028cee4672862adf9366b",
           "lastSyncedAt": "2026-11-25T12:24:08.767Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1346",
+      "title": "Check If N and Its Double Exist",
+      "slug": "check-if-n-and-its-double-exist",
+      "problemName": "1346-check-if-n-and-its-double-exist",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-n-and-its-double-exist/",
+      "folderPath": "leet/1346-check-if-n-and-its-double-exist/",
+      "readmePath": "leet/1346-check-if-n-and-its-double-exist/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1346-check-if-n-and-its-double-exist.c",
+          "path": "leet/1346-check-if-n-and-its-double-exist/1346-check-if-n-and-its-double-exist.c",
+          "sha": "1c32178e5a8c6204debaff0619c29d3adc8d9606",
+          "lastSyncedAt": "2026-11-25T12:24:45.423Z"
         }
       ]
     }
