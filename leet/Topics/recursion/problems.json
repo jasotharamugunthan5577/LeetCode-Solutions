@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "recursion",
+    "name": "Recursion",
+    "tagId": "31"
+  },
+  "updatedAt": "2026-11-25T12:24:16.965Z",
+  "problems": [
+    {
+      "frontendId": "10",
+      "title": "Regular Expression Matching",
+      "slug": "regular-expression-matching",
+      "problemName": "0010-regular-expression-matching",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/regular-expression-matching/",
+      "folderPath": "leet/0010-regular-expression-matching/",
+      "readmePath": "leet/0010-regular-expression-matching/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0010-regular-expression-matching.c",
+          "path": "leet/0010-regular-expression-matching/0010-regular-expression-matching.c",
+          "sha": "382718af85b7ea35aae35a233da0b858ae927194",
+          "lastSyncedAt": "2026-11-25T12:24:16.965Z"
+        }
+      ]
+    }
+  ]
+}
